@@ -14,7 +14,6 @@ for index, linha in municipios.iterrows():
                   icon='money',
                   prefix='fa')).add_to(map)
 
-
 # Localização portos
 
 
