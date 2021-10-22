@@ -2,7 +2,7 @@
 
 Repostirório para armazenamento de dados sobre a região de MATOPIBA. 
 
-## **7 - Referências Bibliográficas**
+## ** Referências **
 
 SANTOS, Milton. **Técnica, espaço, tempo**: globalização e meio técnico-científico-informacional. São Paulo: \[s.i\], 1994.
 
