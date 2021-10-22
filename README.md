@@ -2,7 +2,7 @@
 
 Repostirório para armazenamento de dados sobre a região de MATOPIBA. 
 
-## ** Referências **
+## Referências
 
 SANTOS, Milton. **Técnica, espaço, tempo**: globalização e meio técnico-científico-informacional. São Paulo: \[s.i\], 1994.
 
@@ -42,5 +42,5 @@ Cerrado’, old and new agricultural frontiers Mauro Oliveira Pires Brazilian Po
 
 Economic growth patterns of the MATOPIBA’S municipalities-; Santana et al - Sociedade Brasileira de Economia e Sociologia Rural
 
-### \*\*\*\*
+
 
